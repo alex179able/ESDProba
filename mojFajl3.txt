@@ -1,2 +1,3 @@
 Izmjena na trecem fajlu.
-Nova izmjena na trecem fajlu.
+Izmjena sa grane na fajlu tri ali je izmjena bila i na masteru.
+
